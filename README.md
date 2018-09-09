@@ -7,7 +7,7 @@ Mark Six is a lottery betting organized by the Hong Kong Jockey Club, and it
 1.	Using python3 to execute the file called **lucky.py**
 2.	Firstly, the screen will show 6 random numbers, and they are from the integer 1-49, and the numbers are *non-repetitive*.
 3.	Secondly, the screen will show another number from the remaining numbers, which is called **special number** in Mark Six. 
-  * Because for the **special number**, sequence is very important (the 7th number). Under this situation, it is different from showing 7 numbers in the screen randomly. Therefore, with my friend’s help, I designed 2 lists. Please refer to the python.
+   * Because for the **special number**, sequence is very important (the 7th number). Under this situation, it is different from showing 7 numbers in the screen randomly. Therefore, with my friend’s help, I designed 2 lists. Please refer to the python.
 # Pointers to References
 [Introduction of Mark Six](https://en.wikipedia.org/wiki/Mark_Six)
 
