@@ -9,11 +9,11 @@ Mark Six is a lottery betting organized by the Hong Kong Jockey Club, and it
 3.	Secondly, the screen will show another number from the remaining numbers, which is called **special number** in Mark Six. 
     * Because for the **special number**, sequence is very important (the 7th number). Under this situation, it is different from showing 7 numbers in the screen randomly. Therefore, with my friend’s help, I designed 2 lists. Please refer to the python.
 # Pointers to References
-##Background information:
+## Background Information:
 
 [Introduction of Mark Six](https://en.wikipedia.org/wiki/Mark_Six)
 
-##syntax
+## Syntax:
 
 [Circular Statement of Python 3](http://www.runoob.com/python3/python3-loop.html)
 
