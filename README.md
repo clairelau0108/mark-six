@@ -10,7 +10,9 @@ Mark Six is a lottery betting organized by the Hong Kong Jockey Club, and it
     * Because for the **special number**, sequence is very important (the 7th number). Under this situation, it is different from showing 7 numbers in the screen randomly. Therefore, with my friend’s help, I designed 2 lists. Please refer to the python.
 # Pointers to References
 [Introduction of Mark Six](https://en.wikipedia.org/wiki/Mark_Six)
+
 [Circular Statement of Python 3](http://www.runoob.com/python3/python3-loop.html)
+
 [Python 3 list remove](http://www.runoob.com/python3/python3-att-list-remove.html)
 # Sample Output
 ![output](https://github.com/clairelau0108/clairelau0108.github.io/blob/master/output.jpg)
